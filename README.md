@@ -29,7 +29,6 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=iAmHammad261&theme=tokyonight&title_color=5ce1e6&border_color=5ce1e6" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iAmHammad261&show_icons=true&theme=tokyonight&icon_color=5ce1e6&title_color=5ce1e6&border_color=5ce1e6" height="165" />
   <img src="https://streak-stats.demolab.com?user=iAmHammad261&theme=tokyonight&ring=5ce1e6&fire=5ce1e6&currStreakLabel=5ce1e6&border=5ce1e6" height="165" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iAmHammad261&layout=compact&theme=tokyonight&title_color=5ce1e6&border_color=5ce1e6" height="165" />
