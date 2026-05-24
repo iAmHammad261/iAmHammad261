@@ -21,6 +21,7 @@
 - 🌱 Expanding skills in **React & Node.js**
 - 💬 Ask me about **NetSuite, SuiteFlow, Advanced Templates**
 - 📍 Based in **Pakistan**
+- Connect 
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/muhammad-hammad-2b1bb530b/)**
 
 
@@ -54,8 +55,8 @@
   <a href="https://www.linkedin.com/in/muhammad-hammad-2b1bb530b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/iAmHammad261">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:hammad2mn2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
