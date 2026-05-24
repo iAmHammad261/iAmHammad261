@@ -13,9 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=iAmHammad261&label=PROFILE+VIEWS&color=9b59b6&style=for-the-badge" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" />
 
-## 👨‍💻 About Me
+<h2 align="center" style="color:white">About Me</h2>
 
 - 🛠️ Specialized in **SuiteScript, SuiteQL & RESTlet APIs**
 - 🌱 Expanding skills in **React & Node.js**
@@ -23,10 +22,7 @@
 - 📍 Based in **Pakistan**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/muhammad-hammad-2b1bb530b/)**
 
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" />
-
-
+<h2 align="center" style="color:white">Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iAmHammad261&show_icons=true&theme=tokyonight&icon_color=5ce1e6&title_color=5ce1e6&border_color=5ce1e6" height="165" />
@@ -34,8 +30,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iAmHammad261&layout=compact&theme=tokyonight&title_color=5ce1e6&border_color=5ce1e6" height="165" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" />
-
+<h2 align="center" style="color:white">Tech Stacks</h2>
 
 
 <p align="center">
@@ -47,7 +42,7 @@
   <img src="https://img.shields.io/badge/SuiteQL-0a7a7e?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" />
+
 
 <h3 align="center">📬 Connect With Me</h3>
 <p align="center">
