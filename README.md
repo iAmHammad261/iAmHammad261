@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5ce1e6&center=true&width=600&lines=Software+Engineer+building+with+NetSuite;SuiteScript+%7C+SuiteQL+%7C+External+Integration" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5ce1e6&center=true&width=600&lines=Software+Engineer+building+with+NetSuite;SuiteScript+%7C+SuiteQL+%7C+External+Integrations" />
 </p>
 
 
