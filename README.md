@@ -21,7 +21,6 @@
 - 🌱 Expanding skills in **React & Node.js**
 - 💬 Ask me about **NetSuite, SuiteFlow, Advanced Templates**
 - 📍 Based in **Pakistan**
-- Connect 
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/muhammad-hammad-2b1bb530b/)**
 
 
