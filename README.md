@@ -9,6 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=iAmHammad261&label=PROFILE+VIEWS&color=9b59b6&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5ce1e6&center=true&width=600&lines=Software+Engineer+building+with+NetSuite;SuiteScript+%7C+SuiteQL+%7C+External+Integration" />
+</p>
+
 
 
 
