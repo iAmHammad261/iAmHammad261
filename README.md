@@ -37,19 +37,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=iAmHammad261&theme=tokyonight&no-frame=true&column=4&margin-w=10&title=Commits,Repositories,Stars,Followers" width="100%" />
 </p>
 
-<h2 align="center" style="color:white">Tech Stacks</h2>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SuiteScript-5ce1e6?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/SuiteQL-0a7a7e?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-
 
 <h3 align="center">📬 Connect With Me</h3>
 <p align="center">
