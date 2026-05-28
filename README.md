@@ -30,13 +30,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iAmHammad261&layout=compact&theme=tokyonight&title_color=5ce1e6&border_color=5ce1e6" height="165" />
 </p>
 
-<h2 align="center" style="color:white">Awards</h2>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iAmHammad261&theme=tokyonight&no-frame=true&column=4&margin-w=10&title=Commits,Repositories,Stars,Followers" width="100%" />
-</p>
-
 
 <h3 align="center">📬 Connect With Me</h3>
 <p align="center">
