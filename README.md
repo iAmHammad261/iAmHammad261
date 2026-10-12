@@ -10,7 +10,7 @@
   </a>
   <img src="https://img.shields.io/github/followers/iAmHammad261?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&labelColor=6e40c9&color=4a2d8a" />
   <img src="https://img.shields.io/github/stars/iAmHammad261?label=STARS&style=for-the-badge&logo=github&logoColor=white&labelColor=2ea44f&color=1a7a35" />
-  <img src="https://komarev.com/ghpvc/?username=iAmHammad261&label=PROFILE+VIEWS&color=9b59b6&style=for-the-badge" />
+  <img src="https://views-counter.vercel.app/badge?pageId=iAmHammad261%2FiAmHammad261&leftColor=6e40c9&rightColor=9b59b6&label=PROFILE%20VIEWS" />
 </p>
 
 
